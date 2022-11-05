@@ -1,0 +1,7 @@
+<html> <head> <title><?php echo "Welcome to my web site!";?></title> </head> 
+
+<body> <?php $date = "November 2, 2017"; ?> <p>Today's date is <?=$date;?></p> </body> 
+
+</html>
+
+Kromann, Frank M.. Beginning PHP and MySQL (pp. 96-97). Apress. Kindle Edition. 
