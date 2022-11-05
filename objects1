@@ -1,0 +1,6 @@
+<?php
+
+class Appliance { private $_power; function setPower($status) { $this->_power = $status; } } 
+$blender = new Appliance;
+
+?>
